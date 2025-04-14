@@ -1,0 +1,38 @@
+
+  {
+    id: 1,
+    name: 'Panda Plush',
+    price: 18.99,
+    image: 'https://i.imgur.com/gRZzrJv.jpeg',
+  },
+  {
+    id: 2,
+    name: 'Lone Snake On The Floor, First to Catch Can Keep',
+    price: 12.5,
+    image: 'https://i.imgur.com/GuQVw9P.jpeg',
+  },
+  {
+    id: 3,
+    name: 'Screaming Wombat',
+    price: 9.99,
+    image: 'https://i.imgur.com/QDpiCKa.jpeg',
+  },
+  {
+    id: 4,
+    name: ' A bunch of baras',
+    price: 22.0,
+    image: 'https://i.imgur.com/aQ5Ntdg.png',
+  },
+  {
+    id: 5,
+    name: 'Panko The Dog In a Dashing Scarf',
+    price: 1000000,
+    image: 'https://i.imgur.com/ahawpVm.jpeg',
+  },
+  {
+    id: 6,
+    name: 'Personal Performance by Mike',
+    price: 1030.5,
+    image: 'https://i.imgur.com/eRzHLTm.jpeg',
+  },
+];

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "1",
+    "title": "Life in the African Savanna",
+    "videoUrl": "https://www.youtube.com/watch?v=eMMLEm6mCSU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/eMMLEm6mCSU/maxresdefault.jpg",
+    "description": "A cinematic exploration of wildlife living in the vast African savanna.",
+    "trivia": "Elephants have the largest brains of any land animal.",
+    "duration": "2:00:00",
+    "views": "3.5M"
+  },
+  {
+    "id": "2",
+    "title": "Journey through the Jungle",
+    "videoUrl": "https://www.youtube.com/watch?v=8myYyMg1fFE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8myYyMg1fFE/maxresdefault.jpg",
+    "description": "A vibrant look at animals that call the rainforest home.",
+    "trivia": "Sloths only defecate once a week.",
+    "duration": "3:00:00",
+    "views": "12M"
+  },
+  {
+    "id": "3",
+    "title": "Wild Creatures of the World",
+    "videoUrl": "https://www.youtube.com/watch?v=BHACKCNDMW8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg",
+    "description": "Follow diverse animal species in different environments across the globe.",
+    "trivia": "Octopuses have three hearts and nine brains.",
+    "duration": "3:00:00",
+    "views": "8.2M"
+  },
+  {
+    "id": "4",
+    "title": "Birds of the Forest",
+    "videoUrl": "https://www.youtube.com/watch?v=o5qImpBxzrI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/o5qImpBxzrI/maxresdefault.jpg",
+    "description": "Colorful and charismatic birds shown in their natural routines.",
+    "trivia": "Hummingbirds can beat their wings up to 80 times per second.",
+    "duration": "2:00:00",
+    "views": "5.6M"
+  },
+  {
+    "id": "5",
+    "title": "The Wild Plains",
+    "videoUrl": "https://www.youtube.com/watch?v=kJyRVdnRwZA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kJyRVdnRwZA/maxresdefault.jpg",
+    "description": "Roaming animals in open landscapes captured in stunning visuals.",
+    "trivia": "Cheetahs are the only big cats that can't roar.",
+    "duration": "1:30:00",
+    "views": "4.3M"
+  },
+  {
+    "id": "6",
+    "title": "Coral Kingdom",
+    "videoUrl": "https://www.youtube.com/watch?v=g3PWYH1P7Oo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/g3PWYH1P7Oo/maxresdefault.jpg",
+    "description": "A dive into the colorful world of reef fish and corals.",
+    "trivia": "Some clownfish can change gender.",
+    "duration": "12:00:00",
+    "views": "7.8M"
+  },
+  {
+    "id": "7",
+    "title": "Secrets of the Rainforest",
+    "videoUrl": "https://www.youtube.com/watch?v=No45YnGEwPI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/No45YnGEwPI/maxresdefault.jpg",
+    "description": "An inside look at the secretive life within lush canopies.",
+    "trivia": "Tree frogs can camouflage to avoid predators.",
+    "duration": "1:00:00",
+    "views": "6.5M"
+  },
+  {
+    "id": "8",
+    "title": "Young of the Wild",
+    "videoUrl": "https://www.youtube.com/watch?v=RhOwyHWGqWg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/RhOwyHWGqWg/maxresdefault.jpg",
+    "description": "A closer look at the first steps of baby animals in the wild.",
+    "trivia": "Newborn giraffes can stand within 30 minutes of birth.",
+    "duration": "1:20:00",
+    "views": "9.1M"
+  },
+  {
+    "id": "9",
+    "title": "Desert Dwellers",
+    "videoUrl": "https://www.youtube.com/watch?v=gc6RiaIvbpI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/gc6RiaIvbpI/maxresdefault.jpg",
+    "description": "Explore survival in one of the harshest environments on Earth.",
+    "trivia": "Some desert snakes can sense heat through their faces.",
+    "duration": "3:00:00",
+    "views": "3.2M"
+  },
+  {
+    "id": "10",
+    "title": "Riverbank Wildlife",
+    "videoUrl": "https://www.youtube.com/watch?v=IvjMgVS6kng",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IvjMgVS6kng/maxresdefault.jpg",
+    "description": "Follow animals that thrive along freshwater ecosystems.",
+    "trivia": "Beavers can hold their breath for up to 15 minutes.",
+    "duration": "3:00:00",
+    "views": "11M"
+  },
+  {
+    "id": "11",
+    "title": "Reptiles of the Wild",
+    "videoUrl": "https://www.youtube.com/watch?v=qaCPqNdqwrU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qaCPqNdqwrU/maxresdefault.jpg",
+    "description": "Lizards, snakes, and crocodiles captured in their natural state.",
+    "trivia": "Geckos can climb vertical glass using microscopic hairs on their feet.",
+    "duration": "1:00:00",
+    "views": "2.2M"
+  },
+    {
+      "id": "12",
+      "title": "Wildlife in the Rainforest",
+      "videoUrl": "https://www.youtube.com/watch?v=FIsgHW11nOs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FIsgHW11nOs/maxresdefault.jpg",
+      "description": "Explore the diverse species inhabiting the dense rainforest.",
+      "trivia": "The Amazon rainforest is home to one in ten known species on Earth.",
+      "duration": "2:00:00",
+      "views": "3.1M"
+    },
+    {
+      "id": "13",
+      "title": "Mountain Creatures",
+      "videoUrl": "https://www.youtube.com/watch?v=6GtnSNSP8oE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6GtnSNSP8oE/maxresdefault.jpg",
+      "description": "Discover animals adapted to life in high-altitude environments.",
+      "trivia": "Snow leopards can leap up to 50 feet in one jump.",
+      "duration": "1:45:00",
+      "views": "2.8M"
+    },
+    {
+      "id": "14",
+      "title": "Arctic Wildlife",
+      "videoUrl": "https://www.youtube.com/watch?v=x7jwJ2bI9Lg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x7jwJ2bI9Lg/maxresdefault.jpg",
+      "description": "Witness the resilience of animals thriving in the Arctic tundra.",
+      "trivia": "Polar bears have black skin underneath their white fur to absorb heat.",
+      "duration": "2:30:00",
+      "views": "4.2M"
+    },
+    {
+      "id": "15",
+      "title": "Grassland Fauna",
+      "videoUrl": "https://www.youtube.com/watch?v=40B2IjLWfTQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/40B2IjLWfTQ/maxresdefault.jpg",
+      "description": "Observe the dynamic ecosystem of the world's grasslands.",
+      "trivia": "Prairie dogs have a complex system of vocal communication.",
+      "duration": "1:00:00",
+      "views": "3.5M"
+    },
+    {
+      "id": "16",
+      "title": "Savanna Wildlife",
+      "videoUrl": "https://www.youtube.com/watch?v=IvjMgVS6kng",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IvjMgVS6kng/maxresdefault.jpg",
+      "description": "Experience the diverse animal life of the African savanna.",
+      "trivia": "Lions are the only big cats that live in groups called prides.",
+      "duration": "2:00:00",
+      "views": "5.0M"
+    },
+    {
+      "id": "17",
+      "title": "Bamboo Forest Dwellers",
+      "videoUrl": "https://www.youtube.com/watch?v=_yMvMxVgfOI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_yMvMxVgfOI/maxresdefault.jpg",
+      "description": "Meet the unique species that inhabit bamboo forests.",
+      "trivia": "Giant pandas spend up to 14 hours a day eating bamboo.",
+      "duration": "1:30:00",
+      "views": "2.9M"
+    },
+    {
+      "id": "18",
+      "title": "Woodland Creatures",
+      "videoUrl": "https://www.youtube.com/watch?v=No45YnGEwPI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/No45YnGEwPI/maxresdefault.jpg",
+      "description": "Delve into the lives of animals residing in temperate forests.",
+      "trivia": "Owls can rotate their heads up to 270 degrees.",
+      "duration": "2:15:00",
+      "views": "3.2M"
+    },
+    {
+      "id": "19",
+      "title": "Wet Season Wildlife",
+      "videoUrl": "https://www.youtube.com/watch?v=8myYyMg1fFE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8myYyMg1fFE/maxresdefault.jpg",
+      "description": "Explore how animals adapt during the rainy season.",
+      "trivia": "Some frogs can lay their eggs in water pools formed in tree leaves.",
+      "duration": "1:50:00",
+      "views": "2.1M"
+    },
+    {
+      "id": "20",
+      "title": "Marshland Animals",
+      "videoUrl": "https://www.youtube.com/watch?v=BHACKCNDMW8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg",
+      "description": "Discover the rich biodiversity of marsh ecosystems.",
+      "trivia": "Herons have specialized neck vertebrae allowing a lightning-fast strike.",
+      "duration": "3:30:00",
+      "views": "4.0M"
+    }
+  ]
+  
